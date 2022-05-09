@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.SN1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>SN1</name>
+        <script><![CDATA[var SN1 = Class.create();
+SN1.prototype = {
+    initialize: function() {
+    },
+// SAGHJHDSFJKDJKL SN1
+    type: 'SN1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-09 17:05:04</sys_created_on>
+        <sys_id>f40ab6222f9bc1101435dcb6f699b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN1</sys_name>
+        <sys_package display_value="GitDemo5" source="a877b2662f5bc1101435dcb6f699b6ec">a877b2662f5bc1101435dcb6f699b6ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitDemo5">a877b2662f5bc1101435dcb6f699b6ec</sys_scope>
+        <sys_update_name>sys_script_include_f40ab6222f9bc1101435dcb6f699b65f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-09 17:05:04</sys_updated_on>
+    </sys_script_include>
+</record_update>
